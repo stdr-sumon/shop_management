@@ -1,0 +1,31 @@
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe.config
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\bin\Debug\ShopManagement.pdb
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\bin\Debug\MetroFramework.dll
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\bin\Debug\ShopManagementBLL.exe
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\bin\Debug\ShopManagementBLL.pdb
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement_FORMS.csprojResolveAssemblyReference.cache
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmLogin.resources
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement_FORMS.csproj.GenerateResource.Cache
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.exe
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.pdb
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmAdmin.resources
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSalesman.resources
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.ucProfile.resources
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.ucAddEmployee.resources
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.ucAddProduct.resources
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.ucSale.resources
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.ucSettings.resources
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.ucTransection.resources
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.ucViewEmployee.resources
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.ucViewProduct.resources
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\bin\Debug\MySql.Data.dll
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\bin\Debug\ShopManagementDAL.exe
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\bin\Debug\ShopManagementDAL.pdb
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Details.resources
+D:\Z C#\ShopManagement - Copy - Copy\ShopManagement\bin\Debug\ShopManagement.exe.config
+D:\Z C#\ShopManagement - Copy - Copy\ShopManagement\obj\Debug\ShopManagement.exe
+D:\Z C#\ShopManagement - Copy - Copy\ShopManagement\obj\Debug\ShopManagement.pdb

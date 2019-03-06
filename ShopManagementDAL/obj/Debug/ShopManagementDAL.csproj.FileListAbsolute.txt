@@ -1,0 +1,10 @@
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagementDAL\bin\Debug\ShopManagementDAL.exe.config
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagementDAL\bin\Debug\ShopManagementDAL.exe
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagementDAL\bin\Debug\ShopManagementDAL.pdb
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagementDAL\bin\Debug\MetroFramework.Design.dll
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagementDAL\bin\Debug\MetroFramework.dll
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagementDAL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagementDAL\obj\Debug\ShopManagementDAL.csprojResolveAssemblyReference.cache
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagementDAL\obj\Debug\ShopManagementDAL.exe
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagementDAL\obj\Debug\ShopManagementDAL.pdb
+C:\Users\Sumon\Desktop\ShopManagement\ShopManagementDAL\bin\Debug\MySql.Data.DLL
